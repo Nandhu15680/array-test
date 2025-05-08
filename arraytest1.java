@@ -107,7 +107,7 @@ class aaa{
         }
     }
 }
- public class sss{
+  class sss{
     public static void main(String[] args){
         int arr [] ={3, 1, 4, 2};
         System.out.print("original array:  ");
@@ -129,7 +129,7 @@ class aaa{
         System.out.print(arr[i] + " ");
     }
 }
-public class f {
+class f {
     public static void main(String[] args) {
         int[] arr = {2, 3, 2, 5,3}; 
         for (int i = 0; i < arr.length; i++) {
